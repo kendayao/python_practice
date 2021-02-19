@@ -15,9 +15,9 @@
 
 
 # READ
-with open('myfile.txt', mode='r') as my_file:
-    contents=my_file.read()
-    print(contents)
+# with open('myfile.txt', mode='r') as my_file:
+#     contents=my_file.read()
+#     print(contents)
 
 # APPEND
 # with open('myfile.txt', mode='a') as my_file:
